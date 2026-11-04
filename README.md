@@ -8,7 +8,7 @@ A two-wheel self-balancing robot developed with an ESP32, an MPU6050 inertial me
 
 - **Developers:** Mohamed Nairi and Soliemen Essid
 - **Organization:** Club CPU – ISIMM
-- **Supervisor:** Rami Zaag — Robotics Training and Projects Manager
+- **Supervisor:** Rami Zaag — Robotics Training and Projects Manager Club CPU ISIMM
 
 ## Overview
 
@@ -144,7 +144,7 @@ The sketch uses the Arduino-ESP32 LEDC pin API (`ledcAttach()` and `ledcWrite(pi
 self-balancing-robot/
 ├── README.md
 ├── images/
-│   └── robot.png
+│   
 └── src/
     └── self_balancing_robot.ino
 ```
@@ -163,5 +163,4 @@ Place the complete Arduino sketch in `src/self_balancing_robot.ino`.
 ---
 
 **Club CPU – ISIMM**  
-Educational robotics project.
 # self-balancing-robot
